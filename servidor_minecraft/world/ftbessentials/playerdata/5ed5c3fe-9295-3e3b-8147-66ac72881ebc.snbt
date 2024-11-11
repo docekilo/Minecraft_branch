@@ -1,0 +1,22 @@
+{
+	muted: false
+	fly: false
+	god: false
+	nick: "SoyPuto777"
+	last_seen: { dim: "minecraft:overworld", x: 267, y: 80, z: -316, time: 1731292213244L, xRot: 39.899982f, yRot: -147.6051f }
+	recording: "none"
+	teleport_history: [
+		{ dim: "minecraft:overworld", x: 184, y: 84, z: -279, time: 1731269005766L }
+		{ dim: "minecraft:overworld", x: 192, y: 73, z: -291, time: 1731269311959L }
+		{ dim: "minecraft:overworld", x: 11, y: 72, z: -169, time: 1731269380167L, xRot: 10.200044f, yRot: -134.54979f }
+		{ dim: "minecraft:overworld", x: 221, y: 70, z: -306, time: 1731270072259L }
+		{ dim: "minecraft:overworld", x: 132, y: 78, z: -269, time: 1731270401628L }
+		{ dim: "minecraft:overworld", x: 231, y: 79, z: -343, time: 1731274789710L }
+		{ dim: "minecraft:overworld", x: 172, y: 71, z: -285, time: 1731274869565L }
+		{ dim: "minecraft:overworld", x: 177, y: 72, z: -283, time: 1731274897663L }
+		{ dim: "minecraft:overworld", x: 258, y: 80, z: -323, time: 1731276782218L }
+		{ dim: "minecraft:overworld", x: 253, y: 80, z: -322, time: 1731277130130L }
+	]
+	homes: { }
+	kit_use_times: { }
+}
